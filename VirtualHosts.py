@@ -3,8 +3,8 @@ import os
 import argparse
 '''
 Desenvolvido e inspirado no modulo VirtualHost-0.0.2, modificado por RobsonMos
-Algumas das linhas presentes aqui foram retirados do modulo VirtualHosts e modificado para atenter minhas nessecidades
-assim como me foi util poderia ser para outros usuarios 
+Algumas das linhas presentes aqui foram retirados do modulo VirtualHosts e modificado para atender minhas nessecidades
+assim como me foi útil poderia ser para outros usuários 
 então qui esta minha obra.
 '''
 def main():
